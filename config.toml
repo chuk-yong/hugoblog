@@ -2,6 +2,7 @@ baseURL = "https://chuk-yong.github.io"
 languageCode = "en-us"
 title = "Chuk Yong Web Page"
 theme = "anatole"
+#publishDir = "<user>.github.io"
 
 summarylength = 10
 enableEmoji = true
@@ -17,7 +18,7 @@ enableRobotsTXT = true
 title = "Yong Chuk Ping"
 author = "Chuk Yong"
 description = "Call me Chuk"
-profilePicture = "images/DSC03094v3.jpg"
+profilePicture = "images/chuk-profile-bw.png"
 keywords = ""
 favicon = "favicons/"
 customCss = []
@@ -49,10 +50,10 @@ url = "https://github.com/chuk-yong"
 # title = "instagram"
 # url = "https://www.instagram.com/"
 
-# [[params.socialIcons]]
-# icon = "fas fa-envelope"
-# title = "e-mail"
-# url = "mailto:mail@alexbilz.com"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:chuk_yong@hotmail.com"
 
 ## Menu items
 
@@ -69,6 +70,12 @@ url = "https://github.com/chuk-yong"
   weight = 200
   identifier = "posts"
   url = "/posts/"
+
+  [[menu.main]]
+  name = "Codes"
+  weight = 200
+  identifier = "codes"
+  url = "/codes/"
 
 #  [[menu.main]]
 #  name = "About"
