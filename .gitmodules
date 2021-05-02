@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/chuk-yong/chuk-yong.github.io.git
 	branch = main
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/chuk-yong/chuk-yong.github.io.git
+	branch = main
