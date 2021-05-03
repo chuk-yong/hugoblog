@@ -24,6 +24,7 @@ favicon = "favicons/"
 customCss = ["css/custom.css", "css/styles.css"]
 customJs = []
 mainSections = ["posts"]
+gtagId = "G-702ZC0VN7Z"
 # images = ["images/site-feature-image.png"]
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
