@@ -15,9 +15,9 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "Yong Chuk Ping"
+title = "Chuk Yong"
 author = "Chuk Yong"
-description = "Call me Chuk"
+description = "AI. Computer Vision. Developer."
 profilePicture = "images/chuk-profile-bw.png"
 keywords = ""
 favicon = "favicons/"
@@ -71,11 +71,11 @@ url = "mailto:chuk_yong@hotmail.com"
   identifier = "posts"
   url = "/posts/"
 
-  [[menu.main]]
-  name = "Codes"
-  weight = 200
-  identifier = "codes"
-  url = "/codes/"
+#  [[menu.main]]
+#  name = "Codes"
+#  weight = 200
+#  identifier = "codes"
+#  url = "/codes/"
 
 #  [[menu.main]]
 #  name = "About"
