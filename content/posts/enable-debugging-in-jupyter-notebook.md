@@ -18,7 +18,7 @@ You may need to install Nodejs if required :
 
 When you start Jupyter Lab, you should see XPython :
 
-![Launcher](D:\Hugo\hugoblog\static\images\jupyter\Launcher.png)
+![Launcher](/images/jupyter/Launcher.png)
 
 ## Change Kernel to XPython
 
@@ -26,16 +26,16 @@ Use XPython from here on if you want to use the Debugger.  For old notebook, ope
 
 Kernel --> Change Kernel --> Select Kernel --> Python 3.8 (XPython)
 
-![Kernel](D:\Hugo\hugoblog\static\images\jupyter\Kernel.png)
+![](/images/jupyter/Kernel.png)
 
 ## Turn on Debugger
 
 Once you are in a notebook running in Xpython, you should see the Debugger icon :
 
-![Enable](D:\Hugo\hugoblog\static\images\jupyter\Enable.png)
+![](/Users/Chuky/Documents/Hugo/hugoblog/static/images/jupyter/Enable.png)
 
 Once you turn it on, you should see the Debugger Panel open up on the right hand side :
 
-![Panel](D:\Hugo\hugoblog\static\images\jupyter\Panel.png)
+![Panel](/images/jupyter/Panel.png)
 
 You are all set and ready to go. 
